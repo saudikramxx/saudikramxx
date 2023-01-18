@@ -1,5 +1,8 @@
 ### Hi there, I'm saud 👋👨‍💻
-<img src = "https://www.canva.com/design/DAFYCtKsSrM/Wshm9MCGJjkBvJbmyHjY2A/edit?utm_content=DAFYCtKsSrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<hr>
+![SAUD IKRAM (1)](https://user-images.githubusercontent.com/116587678/213266150-7002d9eb-ef9b-48a4-a25e-f509b447c887.png)
+
+
 <!--
 **saudikramxx/saudikramxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
