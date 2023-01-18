@@ -1,8 +1,11 @@
-### Hi there, I'm saud 👋👨‍💻
+# Hi there, I'm saud 👋👨‍💻
 <hr>
 <img src= "./SAUD IKRAM (1).png">
-
-
+I am an aspiring fullstack developer who is passionate about bulding/learning new technologies by journy started as a nive computer science stutend with a passion to learn everything i could about programming world-code,linix,unix,all the while teching myself python development with a dream to build my own application which got overshadowed by my desire to excel as a full stack developer 
+## connect with me
+<hr>
+<p><a href="https://www.linkedin.com/in/saud-ikram-aa4a01238/"> <i class="fa-brands fa-linkedin"></i></a>
+</p>
 <!--
 **saudikramxx/saudikramxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
