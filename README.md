@@ -1,21 +1,14 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1> Hi there, I'm saud 👋👨‍💻</h1>
 
 <img src= "./SAUD IKRAM (1).png">
 <p>I am an aspiring fullstack developer who is passionate about bulding/learning new technologies by journy started as a nive computer science stutend with a passion to learn everything i could about programming world-code,linix,unix,all the while teching myself python development with a dream to build my own application which got overshadowed by my desire to excel as a full stack developer</p>
 <h2> Connect with me </h2>
-<i class="fa-brands fa-linkedin"></i>
+ <a href = "https://www.linkedin.com/in/saud-ikram-aa4a01238/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+ <a href = "https://www.instagram.com/my_journy_to_idk/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>  <a href = "https://twitter.com/SaudIkram4"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>  
 
-<!--
-**saudikramxx/saudikramxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saudikramxx)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saudikramxx&show_icons=true)  
