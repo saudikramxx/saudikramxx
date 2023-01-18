@@ -1,6 +1,6 @@
 ### Hi there, I'm saud 👋👨‍💻
 <hr>
-![SAUD IKRAM (1)](https://user-images.githubusercontent.com/116587678/213266150-7002d9eb-ef9b-48a4-a25e-f509b447c887.png)
+<img src= "./SAUD IKRAM(1).png">
 
 
 <!--
