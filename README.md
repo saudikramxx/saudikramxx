@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/sickteck.online-0B5FD9?style=flat-square)](https://sickteck.online/)
 [![Email](https://img.shields.io/badge/saudikram@proclaw.online-0B5FD9?style=flat-square)](mailto:saudikram@proclaw.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B5FD9?style=flat-square)](https://www.linkedin.com/in/saud-ikram-aa4a01238/)
-[![Available](https://img.shields.io/badge/Available%20for%20projects-1ED9A3?style=flat-square)](https://sickteck.online/)
+[![Available](https://img.shields.io/badge/Available%20for%20projects-0A2540?style=flat-square)](https://sickteck.online/)
 
 Off-the-shelf AI is built for everyone, which means it's built for no one. I build the other kind — shaped around your process, your data and your tools, then engineered to survive production.
 
@@ -23,9 +23,9 @@ Discovery → prototype → build → ship → iterate. No six-month discovery p
 
 ### Stack
 
-**AI** — Claude · OpenAI · MCP · LangChain · Ollama · Hugging Face · Whisper · pgvector
-**Backend** — Python · FastAPI · Go · PostgreSQL · Redis · Docker · GitHub Actions
-**Frontend & QA** — TypeScript · React · Vite · Tailwind · Playwright · Vitest · pytest
+- **AI** — Claude · OpenAI · MCP · LangChain · Ollama · Hugging Face · Whisper · pgvector
+- **Backend** — Python · FastAPI · Go · PostgreSQL · Redis · Docker · GitHub Actions
+- **Frontend & QA** — TypeScript · React · Vite · Tailwind · Playwright · Vitest · pytest
 
 ### Why clients keep me
 
