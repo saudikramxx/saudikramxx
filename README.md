@@ -1,7 +1,7 @@
 <a href="https://sickteck.online/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <img src="./assets/header-light.svg" width="100%" alt="Saud Ikram — custom AI developer. AI agents wired into your own tools, RAG that answers from your documents, workflows that run themselves, voice AI that works offline. 100% line and branch coverage, 56 architecture diagrams, no lock-in. Available for projects — sickteck.online" />
+  <img src="./assets/header-light.svg" width="100%" alt="Saud Ikram — custom AI developer. AI agents wired into your own tools, RAG that answers from your documents, workflows that run themselves, voice AI that works offline. 100% line and branch coverage, 749 automated tests, 56 architecture diagrams. Available for projects — sickteck.online" />
 </picture>
 </a>
 
@@ -25,6 +25,8 @@ Most of my work is under NDA — happy to walk through architecture and code in 
 
 **Stack** — Claude · OpenAI · MCP · LangChain · Ollama · Hugging Face · Whisper · pgvector · Python · FastAPI · Go · PostgreSQL · Redis · Docker · TypeScript · React · Playwright
 
-**The numbers** — a recent backend runs 3,277 statements at 100% line + branch coverage behind a hard CI gate with `mypy --strict` and `ruff` clean on every commit; 17 component specs and 56 architecture diagrams were written before the first line of code.
+**The numbers** — a recent build runs **749 automated tests** (554 backend, 175 unit, 20 end-to-end) over 3,965 statements held at **100% line + branch coverage** by a hard CI gate with no exclusions, `mypy --strict` and `ruff` clean on every commit. 17 component specs and 56 architecture diagrams were written before the first line of code.
+
+Everything is documented and containerised and handed over at the end — you are not tied to me to keep it running.
 
 </details>

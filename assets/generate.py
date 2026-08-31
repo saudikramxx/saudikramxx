@@ -35,8 +35,8 @@ CARDS = [
 ]
 STATS = [
     (u"100%", u"line + branch coverage", u"hard CI gate, no exclusions"),
+    (u"749",  u"automated tests",        u"green on every commit"),
     (u"56",   u"architecture diagrams",  u"written before any code"),
-    (u"0",    u"lock-in",                u"documented and handed over"),
 ]
 
 
